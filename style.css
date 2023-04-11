@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+.inicio{
+    background-color: aqua;
+    padding: 1em;
+    margin:0;
+    text-align: end;    
+}
+
+
+
+div nav a{
+    margin: 1px;
+    margin-left: 5px;
+    border:1;
+    text-decoration: none;
+    
+    
+}
+
+.logo{
+    margin: 0;
+    text-align: start;
+}
+
+.des1{
+    background-color: aquamarine;
+    padding: 5em;
+    text-align: justify;
+}
+.fin1{
+    background-color:red;
+    padding: .2em;
+}
+
